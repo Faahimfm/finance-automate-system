@@ -1,0 +1,31 @@
+Date,Details,Amount,Currency,Debit/Credit,Status
+2025-01-01,ATM Withdrawal,5000,LKR,Debit,Completed
+2025-01-03,Salary Credit,120000,LKR,Credit,Completed
+2025-01-05,Online Purchase - Daraz,3500,LKR,Debit,Completed
+2025-01-06,POS Payment - Keells,2150,LKR,Debit,Completed
+2025-01-10,Fund Transfer Received,25000,LKR,Credit,Completed
+2025-01-12,Utility Bill Payment,4200,LKR,Debit,Pending
+2025-01-14,Mobile Reload,450,LKR,Debit,Completed
+2025-01-15,Interest Credit,320,LKR,Credit,Completed
+2025-01-18,International Payment,15.75,USD,Debit,Completed
+2025-01-20,Refund - Online Store,3500,LKR,Credit,Completed
+2025-01-22,POS Payment - Arpico,1890,LKR,Debit,Completed
+2025-01-23,Netflix Subscription,950,LKR,Debit,Completed
+2025-01-24,Fund Transfer Sent,10000,LKR,Debit,Completed
+2025-01-25,ATM Withdrawal,7000,LKR,Debit,Completed
+2025-01-26,Salary Advance,20000,LKR,Credit,Completed
+2025-01-27,Online Purchase - Amazon,29.99,USD,Debit,Completed
+2025-01-28,Utility Bill Payment,3800,LKR,Debit,Completed
+2025-01-29,Mobile Reload,500,LKR,Debit,Completed
+2025-01-30,POS Payment - Cargills,1650,LKR,Debit,Completed
+2025-01-31,Fund Transfer Received,45000,LKR,Credit,Completed
+2025-02-01,ATM Withdrawal,6000,LKR,Debit,Completed
+2025-02-02,POS Payment - Lanka Hospital,8500,LKR,Debit,Completed
+2025-02-03,Rewards Cashback,750,LKR,Credit,Completed
+2025-02-04,Online Purchase - eBay,18.50,USD,Debit,Completed
+2025-02-05,Utility Bill Payment,4100,LKR,Debit,Pending
+2025-02-06,Mobile Data Pack,1200,LKR,Debit,Completed
+2025-02-07,Fund Transfer Sent,5000,LKR,Debit,Completed
+2025-02-08,Interest Credit,350,LKR,Credit,Completed
+2025-02-09,POS Payment - ODEL,2990,LKR,Debit,Completed
+2025-02-10,Refund - Service Charge,1500,LKR,Credit,Completed
